@@ -1,4 +1,4 @@
-# endless-space-runner
+# space-game-core
 
 
 
